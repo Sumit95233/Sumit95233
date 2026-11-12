@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hey+there%2C+I%27m+Sumit+Raj+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&height=65&lines=%3E+Hey+there%2C+I%27m+Sumit+Raj+%F0%9F%91%8B" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=B26BFF&center=true&vCenter=true&width=800&height=45&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;SQL+Enthusiast+%F0%9F%97%84%EF%B8%8F;Power+BI+Dashboard+Builder+%F0%9F%93%88;400++Problems+Solved+%F0%9F%A7%A0" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=B26BFF&center=true&vCenter=true&width=800&height=45&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;SQL+Enthusiast+%F0%9F%97%84%EF%B8%8F;Power+BI+Dashboard+Builder+%F0%9F%93%88;400%2B+Problems+Solved+%F0%9F%A7%A0;CSE+Student+%40+Chandigarh+University+%F0%9F%8E%93" />
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&width=800&height=35&lines=Turning+Data+Into+Insights+%26+Ideas+Into+Solutions" />
 
@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/CSE-Chandigarh_University-7F00FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Batch-2027-00F5FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Focus-Data_Analytics-FF2E88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Solved-400%2B_Problems-F2C811?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -28,9 +29,16 @@
  ___/ / /_/ / /  / // /  / /    / _, _/ ___ / /_/ /
 /____/\____/_/  /_/___/ /_/    /_/ |_/_/  |_\____/
 
-   ┌─[ sumit@data-lab ]──[~]
-   └─$ whoami
-      > Aspiring Data Analyst | Python Dev | SQL Enthusiast
+  ┌─[ sumit@data-lab ]──[~/profile]
+  └─$ whoami
+     Aspiring Data Analyst | Python Dev | SQL Enthusiast
+
+  ┌─[ sumit@data-lab ]──[~/profile]
+  └─$ cat status.txt
+     🎓 Education  : B.E. CSE, Chandigarh University (2027)
+     🧠 Solved     : 400+ coding & SQL problems
+     📊 Learning   : Data Analytics • SQL • Python • Power BI
+     🚀 Mindset    : Always learning, building & improving
 ```
 
 <p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
@@ -79,22 +87,67 @@ WHERE  rnk = 1;   -- Python | SQL | Power BI | Pandas | Excel 🔥
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+MY+DATA+PIPELINE" />
 </div>
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0a3a','primaryBorderColor':'#00F5FF','primaryTextColor':'#ffffff','lineColor':'#B26BFF','fontFamily':'monospace'}}}%%
-flowchart LR
-    A["🗂️ Raw Data"] --> B["🧹 Clean<br/>Pandas • Excel"]
-    B --> C["🗄️ Query<br/>SQL • CTEs"]
-    C --> D["🔍 Explore<br/>EDA • NumPy"]
-    D --> E["📈 Visualize<br/>Power BI • DAX"]
-    E --> F["💡 Insights"]
-    style A fill:#0D1117,stroke:#00F5FF,stroke-width:2px
-    style F fill:#7F00FF,stroke:#FF2E88,stroke-width:3px
+```text
+┌────────────────────────────────────────────────────┐
+│ 01  RAW DATA                                       │
+└──────────────────────────┬─────────────────────────┘
+                           ▼
+┌────────────────────────────────────────────────────┐
+│ 02  CLEAN      ▸  Pandas • Excel                   │
+└──────────────────────────┬─────────────────────────┘
+                           ▼
+┌────────────────────────────────────────────────────┐
+│ 03  QUERY      ▸  SQL • CTEs • Window Functions    │
+└──────────────────────────┬─────────────────────────┘
+                           ▼
+┌────────────────────────────────────────────────────┐
+│ 04  EXPLORE    ▸  EDA • NumPy • Matplotlib • Seaborn│
+└──────────────────────────┬─────────────────────────┘
+                           ▼
+┌────────────────────────────────────────────────────┐
+│ 05  VISUALIZE  ▸  Power BI • DAX • Dashboards      │
+└──────────────────────────┬─────────────────────────┘
+                           ▼
+┌────────────────────────────────────────────────────┐
+│ 06  INSIGHTS    ▸  Decisions backed by data        │
+└────────────────────────────────────────────────────┘
 ```
 
 <p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+TECH+ARSENAL" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+SKILL+UNIVERSE" />
+</div>
+
+```text
+SUMIT RAJ
+│
+├── 📊 Data Analytics
+│   ├── Data Cleaning
+│   ├── Exploratory Data Analysis
+│   ├── KPI Reporting
+│   └── Trend Analysis
+│
+├── 🐍 Python
+│   ├── Pandas • NumPy
+│   └── Matplotlib • Seaborn
+│
+├── 🗄️ SQL
+│   ├── Joins • Subqueries
+│   └── CTEs • Window Functions
+│
+├── 📈 Power BI
+│   ├── DAX • Power Query
+│   └── Data Modeling • Dashboards
+│
+└── 🧬 CS Core
+    └── OOP • DBMS • OS • DSA
+```
+
+<p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=B26BFF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+TECH+ARSENAL" />
 </div>
 
 <div align="center">
@@ -146,7 +199,7 @@ flowchart LR
 <p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=B26BFF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+SKILL+MATRIX" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+SKILL+MATRIX" />
 </div>
 
 <div align="center">
@@ -165,7 +218,33 @@ flowchart LR
 <p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+ACHIEVEMENTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+LEARNING+ROADMAP" />
+</div>
+
+```text
+ [✔] STAGE 1 ── FOUNDATION
+      ├─ Programming : C • C++ • Java • JavaScript
+      └─ CS Core     : OOP • DBMS • OS • DSA
+            │
+ [✔] STAGE 2 ── DATA SKILLS
+      ├─ Python      : Pandas • NumPy • Visualization
+      ├─ SQL         : Joins • CTEs • Window Functions
+      └─ BI Tools    : Power BI • DAX • Excel
+            │
+ [✔] STAGE 3 ── PROOF OF WORK
+      ├─ 400+ coding & SQL problems solved
+      ├─ Google Data Analytics Certificate
+      ├─ SQL for Data Analysis
+      └─ Power BI Fundamentals
+            │
+ [▶] STAGE 4 ── NEXT
+      └─ Data Analyst role • Real-world projects
+```
+
+<p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=B26BFF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+ACHIEVEMENTS" />
 </div>
 
 <div align="center">
@@ -180,7 +259,7 @@ flowchart LR
 <p align="center">▰▰▰▰▰▰▰▰▰▰▰▰ ⚡ ▰▰▰▰▰▰▰▰▰▰▰▰</p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+LET%27S+CONNECT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+LET%27S+CONNECT" />
 </div>
 
 <div align="center">
@@ -190,6 +269,20 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=7F00FF&center=true&vCenter=true&width=800&height=40&lines=%F0%9F%92%A1+Turning+Data+Into+Insights+%26+Ideas+Into+Solutions;%E2%AD%90+Thanks+for+visiting+my+profile%21" />
+<details>
+<summary><b>🎁 Click me — secret message</b></summary>
+
+<br/>
+
+```python
+for scroller in ["teachers", "friends", "recruiters"]:
+    print(f"Thanks for scrolling this far, {scroller}! 🚀")
+```
+
+</details>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=7F00FF&center=true&vCenter=true&width=800&height=40&lines=%F0%9F%92%A1+Turning+Data+Into+Insights+%26+Ideas+Into+Solutions;%E2%AD%90+Thanks+for+visiting+my+profile%21;%F0%9F%A4%9D+Let%27s+build+something+awesome+together" />
 
 </div>
